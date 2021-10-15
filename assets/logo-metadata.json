@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "solid"
+      },
+      {
+        "trait_type": "Background",
+        "value": "transparent"
+      }
+    ],
+    "description": "Code Space Inc's logo",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTMCP6eSTf4Stebb9kA3MyaMEdHSwXpMpN6XYaTieW84i",
+    "name": "Code Space Inc"
+  }
+  
